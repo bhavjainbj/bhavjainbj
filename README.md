@@ -32,4 +32,4 @@ Check them all out on my Github Repository : [Python_Project](https://github.com
 
 <h2>How To Reach Me:</h2>
 
-<a href="mailto:bhavjain8601@gmail.com">![bhavjain8601@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  <a href="<https://www.linkedin.com/in/bhavyajainbj/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href="https://www.instagram.com/bhav_jain_bj/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<a href="mailto:bhavjain8601@gmail.com">![bhavjain8601@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  <a href="https://www.linkedin.com/in/bhavyajainbj/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href="https://www.instagram.com/bhav_jain_bj/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
